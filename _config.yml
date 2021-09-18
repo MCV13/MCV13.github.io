@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Lord MC'S CIT480 Blogs
+email: maximiliano.carranza.723@my.csun.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my blog page, where I will be posting various blogs that have anything to do with Information Techonoly. Topics will include anything from troubleshooting, networking, cyber security, the cloud, and much more!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mcv13.github.io/" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  MCV13
+
+# Build settings
+markdown: kramdown
